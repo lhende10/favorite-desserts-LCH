@@ -1,2 +1,3 @@
-# favorite-desserts-LCH
-logging favorite desserts of the lab
+## Favorite desserts of the Santoro lab
+
+- Lillian: **affogato**
